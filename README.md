@@ -16,7 +16,7 @@
    espectrograma y con la transformada inversa de Fourier, obtener la
    señal filtrada.
    ![image](https://user-images.githubusercontent.com/116558787/197547069-e97d1bc0-03df-4e2a-9650-4cd20fb7addc.png)
- - Nuestra propuesta consiste en reentrenar dicho modelo con los framentos de sonido marino con ruido suministrados,
+ - Nuestra propuesta consiste en reentrenar dicho modelo con los fragmentos de sonido marino con ruido suministrados,
    pero los recortamos para eliminar los eventos, de manera que la red neuronal no reciba como entrada sonido de cetáceos.
    Una vez entrenado el modelo, se
    puede usar para limpiar audios marinos. Al no
