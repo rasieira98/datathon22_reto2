@@ -23,9 +23,9 @@
    disponer de muestras limpias, y no tener tiempo para limpiarlas, se
    fueron comprobando los modelos obtenidos de cada epoch mediante la
    escucha de los audios obtenidos. El modelo seleccionado fue el del
-   epoch que mejor resultados dio. Una vez se dispone del modelo, es
+   epoch que mejor resultados dió. Una vez se dispone del modelo, es
    fácil y rápido limpiar los audios. Sin embargo, para mejorar la
-   calidad del audio, se realiza un filtrado fino con métodos clásicos.
+   calidad del audio, se realiza posteriormente un filtrado fino con métodos clásicos.
    Este filtrado no es demasiado agresivo y tiene como objetivo
    “suavizar” los resultados del modelo DCUnet-20.
    ![image](https://user-images.githubusercontent.com/116558787/197547170-19c4f194-d0b5-4efa-b098-46eb7d045c22.png)
