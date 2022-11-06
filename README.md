@@ -11,8 +11,8 @@
    Encoder-Decoder que es capaz de ‘condensar’ la descripción de los
    información en el domino complejo obtenido con la transformada
    discreta de Fourier. La idea es, que el modelo sea capaz de
-   “reconstruir” desde el dominio complejo la “estructura” del ruido
-   para poder luego volver a descomponerlo para restárselo al
+   “deconstruir” desde el dominio complejo la “estructura” del ruido
+   para poder luego volver a componerlo y poder restárselo al
    espectrograma y con la transformada inversa de Fourier, obtener la
    señal filtrada.
    ![image](https://user-images.githubusercontent.com/116558787/197547069-e97d1bc0-03df-4e2a-9650-4cd20fb7addc.png)
